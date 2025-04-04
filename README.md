@@ -13,6 +13,9 @@
 ## Overview
 The project showcases hands on expeinece in designing end-to-end data anlysis solution using PowerBI to address problems statement in retail store industry.
 
+![picture](https://github.com/user-attachments/assets/f3787771-4cd6-4cfc-b451-61bb9441f198)
+
+
 # About the Business
 The business is committed to offering high-quality food products while prioritizing consumer health. As part of its strategy, it carefully curates a limited assortment of food items, focusing on those with moderate fat content to promote a balanced diet. Its goal is to provide nutritious options that support customers' well-being without compromising on taste.
 
